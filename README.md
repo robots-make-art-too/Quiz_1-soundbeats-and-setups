@@ -46,8 +46,11 @@ The steps above must be completed before you can continue.
    - [] request to join your _Lab #_ team
    - [] request to join your _Lab TAs_ team
    - [] request to join the _Quiz 1_ team
-
+   
+   >
    > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
+   > in the meantime.. continue on
+   >
 
    ![first](/join-team.png "Step 1: Join the team")
 
