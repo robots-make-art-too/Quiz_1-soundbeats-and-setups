@@ -4,7 +4,7 @@
 
 ## Initial Checks
 
-SAVE THIS FILE TO YOUR COMPUTER. OPEN IT IN SUBLIME, VISUAL STUDIO CODE, OR SOMETHING ELSE THAT CAN READ `.md` FILES
+SAVE THIS FILE (and the images if you want to see them in the local file) TO YOUR COMPUTER. OPEN IT IN SUBLIME, VISUAL STUDIO CODE, OR SOMETHING ELSE THAT CAN READ `.md` FILES
 
 Once you complete each step, check it complete.
 
