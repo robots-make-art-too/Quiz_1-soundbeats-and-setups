@@ -4,6 +4,8 @@
 
 ## Initial Checks
 
+SAVE THIS FILE TO YOUR COMPUTER. OPEN IT IN SUBLIME, VISUAL STUDIO CODE, OR SOMETHING ELSE THAT CAN READ `.md` FILES
+
 Once you complete each step, check it complete.
 
 - [] this is not completed
