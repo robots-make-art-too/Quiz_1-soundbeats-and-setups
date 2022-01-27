@@ -21,9 +21,9 @@ Once you complete each step, check it complete.
    > `![image](/img/image.png "Image info")`
 
 2. Say Hello:
-   - [] find the `#Quiz-1` channel on the `EECS 17xx Discord` server
+   - [] find the `#quiz-1` channel on the `EECS 17xx Discord` server
      - do you have to join? if `yes`: ask a `TA` or `instructor` for the link. ASAP!
-     - [] Comment in the `#Quiz-1` channel with your first name and your registered lab section
+     - [] Comment in the `#quiz-1` channel with your first name and your registered lab section
        - example: Sarah Lab2
    - [] find the `General Forum` in our `eClass` course
      - [] on the `QUIZ 1` post, add a reply with `Hi - I am here` (this is a _crucial (extremely important)_ step)
