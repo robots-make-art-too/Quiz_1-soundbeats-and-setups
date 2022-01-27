@@ -47,11 +47,11 @@ The steps above must be completed before you can continue.
 
    > let _your instructor know_ when you have sent the request: *SO IT CAN BE APPROVED ASAP*
 
-   ![first](/img/join-team.png "Step 1: Join the team")
+   ![first](/join-team.png "Step 1: Join the team")
 
 2. [] Make a new repo
 
-   ![second](/img/make-repo.png "Step 2: Create a Repo")
+   ![second](/make-repo.png "Step 2: Create a Repo")
 
 3. Use the following criteria
    - [] firstname_lastname
@@ -59,7 +59,7 @@ The steps above must be completed before you can continue.
    - [] .git Node
    - [] MIT license
 
-   ![third](/img/criteria.png "Step 3: You must follow this format")
+   ![third](/criteria.png "Step 3: You must follow this format")
 
 ---
 
@@ -67,19 +67,19 @@ The steps above must be completed before you can continue.
 
 1. [] clone the `instructor's` _Quiz 1 template_ repo to your local drive
 
-   ![one](/img/clone-instr.png "Step 1: Clone the template repo")
+   ![one](/clone-instr.png "Step 1: Clone the template repo")
 
 2. [] clone your _new remote_ `firstname_lastname` repo to your local drive
 
-   ![two](/img/clone_your.png "Step 2: Clone the template repo")
+   ![two](/clone_your.png "Step 2: Clone the template repo")
 
 3. [] Copy _all_ the files and folders _as is_ from the  `Quiz 1 template` repo to your `new local` repo from step 2.
 
-   ![three](/img/copy.png "Step 3: Copy the template repo")
+   ![three](/copy.png "Step 3: Copy the template repo")
 
 4. [] git add, commit, and push your `local` repo to your `remote` repo on `robots-make-art-too`
 
-   ![four](/img/send-remote.png "Step 4: Push to remote")
+   ![four](/send-remote.png "Step 4: Push to remote")
 
 ## Back to Remote
 
