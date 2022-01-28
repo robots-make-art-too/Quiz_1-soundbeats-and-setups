@@ -6,6 +6,10 @@
 
 SAVE THIS FILE (and the images if you want to see them in the local file) TO YOUR COMPUTER. OPEN IT IN SUBLIME, VISUAL STUDIO CODE, OR SOMETHING ELSE THAT CAN READ `.md` FILES
 
+(UPDATE: did anyone who asked how to open an `.md` file first read the sentence right there. Right above this one. You can read it now. This open page was my screenshare during lecture (which was all quiz time)!)
+
+---
+
 Once you complete each step, check it complete.
 
 - [] this is not completed
@@ -16,9 +20,13 @@ Once you complete each step, check it complete.
      - are you registered? if `no`: give your email HERE:
    - [] at our EECS 1720 department [website](https://www.eecs.yorku.ca/course_archive/2021-22/W/1720/)
    - [] `Page 4` of the updated course syllabus
-
-   > save your screenshots for later
-   > `![image](/img/image.png "Image info")`
+   
+     > save your screenshots for later
+     >
+     > `![image](/img/image.png "Image info")` <- this is a way to include images in `.md` files
+     >
+     > UPDATE: if you are asking where to save the images.. I don't know? Where do you usually save any images you save? Have you ever taken a screenshot? Does it save automatically? These are the deep questions of life we need to know. If you think I want to see them, consider keeping them handy for a location that I will have access to. We are on GitHub so... maybe a repo? Wait and see.
+     >
 
 2. Say Hello:
    - [] find the `#quiz-1` channel on the `EECS 17xx Discord` server
@@ -40,6 +48,9 @@ Once you complete each step, check it complete.
 ## Moving on
 
 The steps above must be completed before you can continue.
+Why? We have been trying to complete them for ~~two~~ almost three weeks. Time's up! Also, I need your `GitHub  URL` put into a file, in a location, that I can restrict public access to, but to which you have access. That link is what gets you into our `team area` of `robots-make-art-too`
+- UPDATE: We have had to _reintroduce_ the open to all 8,000,000,000 people on Earth google link.
+  - Last chance to get in and record your info happening soon cause that link won't stay up for long. 
 
 1. [] Find your way to our `GitHub` organization page [robots-make-art-too](https://github.com/robots-make-art-too)
    - [] Locate the `Teams` tab
