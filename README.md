@@ -25,7 +25,7 @@ Once you complete each step, check it complete.
      >
      > `![image](/img/image.png "Image info")` <- this is a way to include images in `.md` files
      >
-     > UPDATE: if you are asking where to save the images.. I don't know? Where do you usually save any images you save? Have you ever taken a screenshot? Does it save automatically? These are the deep questions of life we need to know. If you think I want to see them, consider keeping them handy for a location that I will have access to. We are on GitHub so... maybe a repo? Wait and see.
+     > UPDATE: if you are asking where to save the images.. I don't know? Is there a folder you usually use to save images? Have you ever taken a screenshot? Maybe it save automatically? These are the deep questions of life we need to know. If you think I want to see them, consider keeping them handy for a location that I will have access to. We are on GitHub so... maybe a repo? Wait and see.
      >
 
 2. Say Hello:
@@ -121,7 +121,7 @@ UPDATE: This section needs to be _so easy for you_ that it was useless to ask a 
 ## Back to Remote
 
 1. [] Verify your repo has the correct content by selecting it and taking a screenshot of the main directory tree
-   - UPDATE: I already can tell this is not happening for some of you.
+   - UPDATE: I can already tell this is not happening for some of you.
      - This is why `screenshots` are useful for _me_ to see what _you_ see.
 3. [] Add _all_ `TA's` and the `instructor` as members to your private repo
    - you will probably have to go to the repo page
